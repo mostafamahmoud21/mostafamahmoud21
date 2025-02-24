@@ -46,8 +46,10 @@
 
 ### 🔹 [Sentiment Analysis for Reviews](https://github.com/MohammedHatemMonir/React-Restaurant)  
 💬 **NLP-powered restaurant review sentiment analysis**  
+A smart platform that evaluates customer feedback using an AI model trained on 1,000,000 records. The insights help restaurant admins understand customer satisfaction and trends. Additionally, sentiment analysis extends beyond restaurants to individual dishes for precise feedback.
 - Integrated **Google Gemini AI** for smart recommendations  
-- Real-time updates with **Socket.IO**  
+- Real-time updates with **Socket.IO**
+- [Demo Video](https://drive.google.com/file/d/15Ii3UNNtewnCjjO2jrjO_5p4NpVbCi7k/view) 
 Tech Stack: **React.js, Node.js, MongoDB, Cloudinary, JWT, Socket.IO, NLP Frameworks**  
 
 ### 🔹 [LinkedIn Clone (WIP)](https://github.com/mostafamahmoud21/linkedin_clone)  
