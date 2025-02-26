@@ -69,7 +69,7 @@ Tech Stack: **Nest.js, TypeScript, PostgreSQL, TypeORM, OAuth, Passport**
 🧠 **A dynamic quiz platform for instructors & students**  
 - User authentication & course enrollment  
 - Auto-graded quizzes & performance analytics  
-Tech Stack: **Node.js, Express, MongoDB, JWT, Socket.IO**  
+Tech Stack: **Nest.js, TypeScript, PostgreSQL, prisma, JWT, Passport**  
 
 ### 🔹 [Library Management System](https://github.com/mostafamahmoud21/Library_System)  
 📖 **Book & transaction management system**  
