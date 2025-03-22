@@ -12,7 +12,7 @@
 
 ## 🚀 About Me  
 - 💡 I enjoy solving complex backend challenges and optimizing database performance.  
-- 🏗️ Currently building a **LinkedIn Clone** and exploring **Nest.js**.  
+- 🏗️ Currently building a **Social Media App** and exploring **Nest.js**.  
 - 🔍 Looking for exciting opportunities to collaborate on **backend projects & open-source contributions**.  
 
 ---
